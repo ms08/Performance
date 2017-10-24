@@ -4,6 +4,7 @@
 - dodaj kolejno poszczególne zadania do repozytorium 
 
 `2. baza danych `
+
 - utwórz samodzielnie tabele z artykułami i kategoriami dla artykułów, tak aby każdy artykuł mógł zostać przypisany do wielu kategorii 
 (każdy artykuł musi posiadać swój identyfikator jako string) 
 - dodaj artykuł który zostanie przypisany do kilku kategorii 
