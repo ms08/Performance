@@ -1,0 +1,3 @@
+select * from articles_categories
+INNER JOIN categories ON categories.id = category_id
+INNER JOIN articles ON articles.id = articles_id;
